@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:2E9EF7&height=180&section=header&text=Muhammad%20Haseeb%20Khalid&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%C2%B7%20AI%20%26%20Agentic%20Systems&descAlignY=58&descSize=15)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&height=45&lines=Muhammad+Haseeb+Khalid" alt="Name" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=2E9EF7&center=true&vCenter=true&width=700&height=30&lines=building+agents+that+don't+fall+over+in+production;LangChain+%C2%B7+LangGraph+%C2%B7+CrewAI+%C2%B7+RAG;Karachi%2C+Pakistan+%F0%9F%87%B5%F0%9F%87%B0" alt="Typing SVG" />
 
@@ -119,6 +119,4 @@ journey
 
 <div align="center">
 <i>"I don't just prompt LLMs — I give them tools, memory, and a reason to behave."</i>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:0d1117&height=100&section=footer)
 </div>
