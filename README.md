@@ -95,23 +95,11 @@ journey
 
 </details>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mhaseebk54&show_icons=true&count_private=true&title_color=2E9EF7&text_color=c9d1d9&icon_color=2E9EF7&bg_color=0d1117&hide_border=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhaseebk54&layout=compact&title_color=2E9EF7&text_color=c9d1d9&icon_color=2E9EF7&bg_color=0d1117&hide_border=true" alt="Top Languages" height="165"/>
-
-<sub>⚠️ These two cards are served by a shared community host that occasionally rate-limits — if either looks blank, it's their traffic, not a broken link. Refresh usually fixes it.</sub>
-
-</div>
-
 ## 🔗 Connect
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mhaseebk.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mhaseebk54)
+**[🌐 Portfolio](https://mhaseebk.vercel.app/)** &nbsp;·&nbsp; **[💻 GitHub](https://github.com/mhaseebk54)**
 
 </div>
 
